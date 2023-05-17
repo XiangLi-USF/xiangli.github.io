@@ -1,135 +1,100 @@
 {
   "basics": {
-    "name": "Philip Johnson",
-    "label": "Professor",
+    "name": "Xiang Li",
+    "label": "PhD Student, Research Assistant",
     "picture": "https://github.com/philipmjohnson/philipmjohnson.github.io/raw/main/img/pmj-headshot.png",
-    "email": "johnson@hawaii.edu",
-    "phone": "808-956-3489",
-    "website": "https://philipmjohnson.github.io",
-    "summary": "I am a Professor of <a href='https://www.ics.hawaii.edu'>Information and Computer Sciences</a> at the University of Hawaii and Director of the <a href='https://csdl.ics.hawaii.edu'>Collaborative Software Development Laboratory</a>",
-    "location": { "address": "1680 East-West Rd, POST 307A", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "xiang11@usf.edu",
+    "phone": "727-430-8657",
+    "website": "https://xiangli.github.io",
+    "summary": "I am studying for the Ph.D. degree in Geography and Environmental Science and Policy, <a href='https://www.usf.edu/arts-sciences/departments/geosciences/index.aspx'>University of South Florida</a>",
+    "location": {"address": "NES 320, University of South Florida", "postalCode": "33620", "city": "Tampa", "countryCode": "USA", "region": "Florida"  },
     "profiles": [
-      { "network": "github", "username": "philipmjohnson", "url": "http://github.com/philipmjohnson" },
-      { "network": "linkedin", "username": "philipmjohnson", "url": "http://linkedin.com/in/philipmjohnson" }
+      { "network": "linkedin", "username": "XiangLi", "url": "https://www.linkedin.com/in/xiang-li-b09a94249/" },
+      { "network": "google", "username": "XiangLi", "url": "https://scholar.google.com/citations?user=8f8WetYAAAAJ&hl=en" },
+      { "network": "twitter", "username": "XiangLi-USF", "url": "https://twitter.com/XiangLiUSF" }
     ]
   },
   "interests": [
+    { "name": "Human Mobility" },
+    { "name": "Disaster Resilience" },
     { "name": "Climate Change" },
-    { "name": "Food Resiliency" },
-    { "name": "Software Engineering" },
-    { "name": "Educational Technology" }
+    { "name": "GIS, Big Data & Remote Sensing of Environment" }
   ],
 
   "education": [
     {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
-      "studyType": "Ph.D.",
-      "endDate": "1990-08-01",
-      "gpa": "",
-      "courses": []
+      "institution": "University of South Florida",
+      "area": "Geography and Environmental Science and Policy",
+      "studyType": "Ph.D. (ongoing)",
+      "startDate": "2022",
+      "endDate": "Present"
     },
     {
-      "institution": "University of Massachusetts, Amherst, MA",
-      "area": "Computer Science",
+      "institution": "Northwest University, China",
+      "area": "Cartography and Geoinformation",
       "studyType": "M.S.",
-      "endDate": "1985-06-01",
-      "gpa": "",
-      "courses": []
+      "startDate": "2018",
+      "endDate": "2021"
     },
     {
-      "institution": "University of Michigan, Ann Arbor, MI",
-      "area": "Biology, Computer Science",
+      "institution": "Northwest University, China",
+      "area": "Physical Geography",
       "studyType": "B.S.",
-      "endDate": "1980-05-01",
-      "gpa": "",
-      "courses": []
+      "startDate": "2014",
+      "endDate": "2018"
     }
   ],
 
   "work": [
     {
-      "company": "University of Hawaii",
-      "position": "Professor",
-      "website": "http://www.ics.hawaii.edu",
-      "startDate": "1990-08-01",
+      "company": "University of South Florida",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "Department of Information and Computer Sciences",
-      "highlights": [
-        "Professor, 2001-present",
-        "Associate Chair, 2010-2016",
-        "Director, Collaborative Software Development Laboratory, 1990-present",
-        "Associate Professor, 1995-2001",
-        "Assistant Professor, 1990-1995"
-      ]
+      "summary": "Department of Geosciences"
     },
     {
-      "company": "Open Power Quality",
-      "position": "CEO",
-      "website": "https://openpowerquality.com",
-      "startDate": "2013-01-01",
-      "endDate": "2019-06-01",
-      "summary": "Co-founder and leader of technical development",
-      "highlights": []
-    },
-    {
-      "company": "Blekinge Institute of Technology",
-      "position": "Visiting Professor",
-      "website": "https://www.bth.se/eng",
-      "startDate": "2006-08-01",
-      "summary": "School of Engineering",
-      "highlights": []
-    },
-    {
-      "company": "University of Queensland",
-      "position": "Senior Research Fellow",
-      "startDate": "1997-05-01",
-      "summary": "Distributed Systems Technology Centre",
-      "highlights": []
+      "company": "Northwest University, China",
+      "position": "Research Assistant",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "<a href='https://sklee.nwu.edu.cn/index.htm'>Labs website</a>"
     }
   ],
 
   "volunteer": [
     {
-      "position": "Editorial Boards",
+      "position": "Presentations",
       "summary": "",
       "highlights": [
-        "Journal of Empirical Software Engineering, 2004-2008",
-        "IEEE Transactions on Software Engineering, 2000-2004",
-        "International Journal of Computer Supported Cooperative Work, 1997-2004"
+        "AAG Annual Meeting, Mar 2023. Intergrated multi-source geospatial data to model evacuation decisions and routes in Hurricane Ian.",
+        "Google Earth Engine (GEE) Workshop, Dec 2022. <a href='https://storymaps.arcgis.com/stories/ddc7d9513ca74fffa333dd4c0f1c8b62'>Storymaps link</a>",
+        "Northwest University Graduate Academic Activity Month Conference, Nov 2020. Second prize, Introduced a study of glacier changes on the Pamir Plateau.",
+        "Northwest University Graduate Academic Activity Month Conference, Nov 2019. Third prize, introduced a method for automatic classification of vegetation mapping by UAV."
       ]
     },
     {
-      "position": "Industrial Boards",
+      "position": "Professional Memberships",
       "summary": "",
       "highlights": [
-        "Member, Technical Advisory Board, Sixth Sense Analytics, 2006-2009",
-        "Member, Board of Directors, Hawaii Strategic Development Corporation, 2006-2009",
-        "Member, Board of Directors, LavaNet, Inc., 2002-2005",
-        "Member, Board of Directors, High Technology Development Corporation, 2000-2004"
+        "Association of American Geographers (AAG), 2022-Present",
+        "GIS Club at University of South Florida, Vice President, 2023-2024"
       ]
     },
     {
-      "position": "Program Chair/Co-Chair",
+      "position": "Competitions",
       "summary": "",
       "highlights": [
-        "International Workshop on In-Process Software Engineering Measurement and Analysis, 2007",
-        "International Workshop on Software Engineering for High Performance Computing System Applications, 2004, 2005",
-        "International Software Engineering Research Network Annual Meeting, 2000",
-        "Software Architectures for Cooperative Systems Workshop, ACM Conference on Computer Supported Cooperative Work, 1994",
-        "CSCW Tools and Technologies Workshop, European Conference on Computer Supported Cooperative Work, 1993",
-        "CSCW Tools and Technologies Workshop, ACM Conference on Computer Supported Cooperative Work, 1992"
+        "National Undergraduate Innovation and EntrepreneurshipProject, 2017-2018. Project leader, completed as a college student innovation national project. Set up an e-commerce company and operated in the local area.",
+        "'Challenge Cup' National College Student CurricularAcademic Science and Technology Works Competition, 2016-2017. Project leader, won the third prize at the provincial level. Reconstructed 3D images using UAV and developed an APP to achieve the whole processingautomatically."
       ]
     },
     {
-      "organization": "International Software Engineering Research Network (ISERN)",
-      "position": "Member",
-      "website": "http://isern.iese.de",
-      "startDate": "1996-05-01",
-      "endDate": "2010-06-01",
+      "position": "Others",
       "summary": "",
       "highlights": [
-        "Software metrics and software engineering behavioral research."
+        "Reviewer of International Journal of Applied Earth Observation and Geoinformation. "
       ]
     }
   ],
@@ -167,48 +132,46 @@
 
   "publications": [
     {
-      "name": "Beyond course work: expanding what's valued in computer science degree programs",
+      "name": "Automated Glacier Snow Line Altitude Calculation Method Using Landsat Series Images in the Google Earth Engine Platform",
       "type": "journal",
-      "author": "Seungoh Paek, Peter Leong, Philip M. Johnson, and Carleton A. Moore",
-      "publisher": "Journal of Applied Research in Higher Education",
-      "releaseDate": "September, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2020/20-08/20-08.pdf",
+      "author": "Xiang Li, Ninglian Wang and Yuwei Wu",
+      "publisher": "Remote Sensing",
+      "releaseDate": "May, 2022",
+      "website": "https://www.mdpi.com/2072-4292/14/10/2377",
       "summary": ""
     },
     {
-      "name": "Design, Implementation, and Evaluation of Open Power Quality",
+      "name": "Summer surface temperature change of Greenland Ice Sheet from 2000 to 2020 and its effect on mass balance",
       "type": "journal",
-      "author": "Anthony J. Christe, Sergey Negrashov, and Philip M. Johnson",
-      "publisher": "Energies 13(15)",
-      "releaseDate": "August, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2020/20-07/20-07.pdf",
+      "author": "Zhenxiang Fang, Ninglian Wang, Xiang Li, Yujie Zhang, Xuenan Tai",
+      "publisher": "Journal of Glaciology and Geocryology",
+      "releaseDate": "August, 2022",
+      "website": "http://www.bcdt.ac.cn/CN/abstract/abstract4858.shtml",
       "summary": ""
     },
     {
-      "name": "RadGrad: Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity",
-      "type": "conference",
-      "author": "Philip M. Johnson, Carleton A. Moore, Peter Leong, Seungoh Paek",
-      "publisher": "Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020)",
-      "releaseDate": "March, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-04/19-04.pdf",
-      "summary": ""
-    },
-    {
-      "name": "Design and evaluation of an athletic approach to software engineering education",
+      "name": "Experiment on 3D Reconstruction of Small Four-rotor UAV Series Images",
       "type": "journal",
-      "author": "Philip M. Johnson",
-      "publisher": "ACM Transactions on Computing Education",
-      "releaseDate": "August, 2019",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-03/19-03.pdf",
+      "author": "Xiang Li, Shiqiang Zhang, Qian Liang",
+      "publisher": "Remote Sensing Information",
+      "releaseDate": "Feb, 2020",
       "summary": ""
     },
     {
-      "name": "A transient classification system implementation on an open source distributed power quality network",
-      "type": "conference",
-      "author": "Charles Dickens, Anthony J. Christe, and Philip M. Johnson",
-      "publisher": "Proceedings of the Ninth International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies",
+      "name": "Glacier Changes and Its Response to Climate Change in the Gilgit River Basin, Western Karakorum Mountains over the Past 20 Years",
+      "type": "journal",
+      "author": "Wei Zhang, Ninglian Wang, Xiang Li, Kai Liu",
+      "publisher": "Mountain Research",
       "releaseDate": "June, 2019",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-02/19-02.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Detection Water Supply Pipeline in Old Urban Communities by Intergrated Interior Work and Field Work",
+      "type": "journal",
+      "author": "Shifan Deng, Zhihua Zhang, Xiang Li, Qianxin Wu, Shiqiang Zhang",
+      "publisher": "Progress in Geophysics (in Chinese)",
+      "releaseDate": "May, 2019",
+      "website": "http://www.dsjyj.com.cn/dzdqs-data/pg/2019/5/PDF/1572242975057-346004543.pdf",
       "summary": ""
     }
   ]
