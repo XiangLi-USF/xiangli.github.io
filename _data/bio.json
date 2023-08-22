@@ -2,7 +2,7 @@
   "basics": {
     "name": "Xiang Li",
     "label": "PhD Student, Research Assistant",
-    "picture": "https://github.com/philipmjohnson/philipmjohnson.github.io/raw/main/img/pmj-headshot.png",
+    "picture": "https://avatars.githubusercontent.com/u/111073560?s=400&u=f4fc1e6e53c53d74f3c5d2bac139be59c15bebca&v=4",
     "email": "xiang11@usf.edu",
     "phone": "727-430-8657",
     "website": "https://xiangli.github.io",
@@ -101,32 +101,53 @@
 
   "awards": [
     {
-      "type": "grant",
-      "title": "Change Hawaii: Harnessing the Data Revolution for Island Resilience",
-      "date": "2022-2027",
-      "awarder": "National Science Foundation",
-      "summary": "G. Jacobs, Principal Investigator; T. Giambelluca, P. Johnson, J. Leigh, and H. Turner, Co-Principal Investigators. $20,000,000"
-    },
-    {
       "type": "award",
-      "title": "Board of Regents Medal for Excellence in Teaching",
-      "date": "2019",
-      "awarder": "University of Hawaii",
+      "title": "USF Graduate Fellowship",
+      "date": "2022",
+      "awarder": "University of South Florida",
       "summary": ""
     },
     {
-      "type": "grant",
-      "title": "Using Degree Experience Plans to Improve Engagement, Retention, and Diversity of Undergraduates in Computer Science",
-      "date": "2018-2022",
-      "awarder": "National Science Foundation",
-      "summary": "P. Johnson, Principal Investigator; Peter Leong, Seungoh Paek, Carleton Moore, Co-Principal Investigators $331,208."
+      "type": "award",
+      "title": "Outstanding Master Graduates in Department of Geography and Environment, Northwest University, China",
+      "date": "2021",
+      "awarder": "Northwest University, China",
+      "summary": ""
     },
     {
-      "type": "grant",
-      "title": "Human centered information integration for the smart grid",
-      "date": "2010-2014",
-      "awarder": "National Science Foundation",
-      "summary": "P. Johnson, Principal Investigator. $413,467."
+      "type": "award",
+      "title": "Outstanding Bachelor Graduates in Northwest University, China",
+      "date": "2018",
+      "awarder": "Northwest University, China",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "National Scholarship, China",
+      "date": "2018",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "type": "project",
+      "title": "National Undergraduate Innovation and Entrepreneurship Project",
+      "date": "2016-2018",
+      "awarder": "",
+      "summary": "Project leader. Completed as a national project"
+    },
+    {
+      "type": "project",
+      "title": "'Challenge Cup' National College Student Business Plan Competition",
+      "date": "2017",
+      "awarder": "",
+      "summary": "Project Leader. Third Prize in Shaanxi Province and first prize in Northwest University"
+    },
+    {
+      "type": "project",
+      "title": "Students' 'Internet+' Innovation Entrepreneurship Competition.",
+      "date": "2016-2017",
+      "awarder": "",
+      "summary": "Project Leader. Third Prize in Shaanxi Province and second prize in Northwest University"
     }
   ],
 
